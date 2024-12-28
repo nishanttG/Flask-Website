@@ -1,0 +1,24 @@
+{
+    "params":
+    {
+        "local_server": "True",
+        "local_uri": "mysql://root:nishant2003@localhost/coding",
+        "prod_uri": "mysql://root:root@localhost/code",
+        "fb_url": "https://www.facebook.com/",
+        "tw_url": "https://twitter.com/its_nishantG",
+        "gh_url": "https://github.com/nishanttG",
+        "gmail-user":"ng17021321@student.ku.edu.np",
+        "gmail-password":"nishant2003",
+        "about_text": "Hi my name is nishanttG and I do data analysis and I am a good boy",
+        "no_of_posts":3,
+        "tagline": "Heaven for programmers",
+        "blogname": "ML-Engineer",
+        "admin_user":"admin",
+        "admin_password": "admin",
+        "upload_location": "C:\\Users\\Hp\\Desktop\\Flask"
+    }
+
+    
+
+
+}
